@@ -1,4 +1,4 @@
-Subdomain tespit uygulaması eklendi
+Subdomain tespit uygulaması
 
 - SecurityTrails API'si ile subdomain tespiti yapıldı
 - Hem HTTP hem HTTPS isteği ve Ping kontrolü ile subdomain'lerin aktifliği kontrol edildi
